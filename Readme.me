@@ -1,3 +1,5 @@
 Your dataset is for predicting molecular solubility (logS) 
 using descriptors like MolLogP, MolWt, NumRotatableBonds, and AromaticProportion. 
  RandomForestRegressor model.
+ prathamesh@prathamesh-HP-EliteBook-840-G5:~$ curl -X POST https://datamodel-l70k.onrender.com/predict -H "Content-Type: application/json" -d '{"MolLogP": 2.5954, "MolWt": 167.85, "NumRotatableBonds": 0, "AromaticProportion": 0.0}'
+{"logS":-2.1207516666666693}
