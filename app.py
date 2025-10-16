@@ -1,26 +1,24 @@
+from flask import Flask, request, jsonify
 import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error
 import joblib
-import sklearn
 
-print(sklearn.__version__)  # Should print 1.4.0
+app = Flask(__name__)
+model = joblib.load('solubility_model.pkl')
 
-# Load dataset
-df = pd.read_csv('delaney_solubility_with_descriptors.csv')
-X = df[['MolLogP', 'MolWt', 'NumRotatableBonds', 'AromaticProportion']]
-y = df['logS']
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+@app.route('/predict', methods=['POST'])
+def predict():
+    try:
+        data = request.get_json()
+        input_data = pd.DataFrame([[
+            float(data['MolLogP']),
+            float(data['MolWt']),
+            int(data['NumRotatableBonds']),
+            float(data['AromaticProportion'])
+        ]], columns=['MolLogP', 'MolWt', 'NumRotatableBonds', 'AromaticProportion'])
+        prediction = model.predict(input_data)[0]
+        return jsonify({'logS': prediction})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 400
 
-# Train model
-model = RandomForestRegressor(n_estimators=100, random_state=42)
-model.fit(X_train, y_train)
-
-# Evaluate
-y_pred = model.predict(X_test)
-mse = mean_squared_error(y_test, y_pred)
-print(f"Mean Squared Error: {mse}")
-
-# Save model
-joblib.dump(model, 'solubility_model.pkl')
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=10000)
