@@ -12,10 +12,19 @@ le_aq → label encoder for air quality
 le_noise → label encoder for noise
 plus metadata (feat_aq, feat_noise, etc.)
 
-curl -X POST http://localhost:10000/airnoise -H "Content-Type: application/json" -d '{
-  "Temperature": 31.8,
-  "Humidity": 36.77,
-  "MQ135": 248.28,
-  "Noise_dB": 33.59
-}'
-{"Predicted_Air_Quality_Label":"Unhealthy","Predicted_Noise_Label":"Very Quiet"}
+# RandomForest (your older bundle)
+curl -X POST http://localhost:10000/airnoise \
+  -H "Content-Type: application/json" \
+  -d '{"Temperature":30.0,"Humidity":45.0,"MQ135":200,"Noise_dB":60.0}'
+
+
+
+# Linear (LogReg)
+curl -X POST http://localhost:10000/air-voice-linear \
+  -H "Content-Type: application/json" \
+  -d '{"Temperature":31.8,"Humidity":36.77,"MQ135":248.28,"Noise_dB":33.59}'
+
+# SVM (RBF)
+curl -X POST http://localhost:10000/air-voice-svm \
+  -H "Content-Type: application/json" \
+  -d '{"temp":28.5,"hum":55.2,"mq135":140,"noise":72.3}'
