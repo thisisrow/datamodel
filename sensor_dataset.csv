@@ -1,0 +1,1001 @@
+Temperature (°C),Humidity (%),MQ135 Value,Air Quality Label,Noise (dB),Noise Label
+27.49,39.26,180.85,Moderate,77.09,Loud
+39.01,57.1,173.49,Moderate,85.77,Very Loud
+34.64,73.65,503.13,Unknown,47.53,Quiet
+31.97,66.61,174.77,Moderate,73.74,Loud
+23.12,70.33,185.97,Moderate,70.02,Loud
+23.12,62.94,429.7,Hazardous,88.3,Very Loud
+21.16,64.61,274.87,Unhealthy,93.43,Very Loud
+37.32,72.46,438.36,Hazardous,30.85,Very Quiet
+32.02,42.48,82.68,Good,77.18,Loud
+34.16,54.47,293.79,Unhealthy,33.63,Very Quiet
+20.41,41.06,66.81,Good,68.42,Moderate
+39.4,79.38,81.33,Good,50.13,Quiet
+36.65,77.2,503.22,Unknown,51.47,Quiet
+24.25,31.97,119.62,Moderate,54.71,Quiet
+23.64,65.28,316.21,Very Unhealthy,73.49,Loud
+23.67,76.26,255.55,Unhealthy,53.38,Quiet
+26.08,39.03,223.67,Unhealthy,81.29,Loud
+30.5,58.4,499.92,Hazardous,58.32,Moderate
+28.64,75.77,60.91,Good,34.78,Very Quiet
+25.82,31.7,381.89,Very Unhealthy,84.86,Loud
+32.24,64.87,531.7,Unknown,50.0,Quiet
+22.79,44.87,330.08,Very Unhealthy,60.29,Moderate
+25.84,76.22,518.41,Unknown,77.98,Loud
+27.33,78.55,76.13,Good,53.27,Quiet
+29.12,77.21,259.4,Unhealthy,33.96,Very Quiet
+35.7,53.71,180.08,Moderate,56.17,Moderate
+23.99,73.1,415.41,Hazardous,96.11,Very Loud
+30.28,72.23,540.65,Unknown,74.92,Loud
+31.85,45.96,178.27,Moderate,77.0,Loud
+20.93,71.45,377.09,Very Unhealthy,74.26,Loud
+32.15,31.85,149.05,Moderate,43.93,Quiet
+23.41,59.81,332.67,Very Unhealthy,59.28,Moderate
+21.3,41.5,281.97,Unhealthy,82.57,Loud
+38.98,36.03,536.0,Unknown,37.1,Very Quiet
+39.31,33.85,354.26,Very Unhealthy,49.45,Quiet
+36.17,64.81,224.75,Unhealthy,49.34,Quiet
+26.09,46.99,107.05,Moderate,60.24,Moderate
+21.95,66.24,125.62,Moderate,98.63,Very Loud
+33.68,33.27,162.66,Moderate,34.73,Very Quiet
+28.8,45.76,175.48,Moderate,66.31,Moderate
+22.44,56.97,475.31,Hazardous,42.56,Quiet
+29.9,69.54,330.61,Very Unhealthy,97.95,Very Loud
+20.69,45.94,311.7,Very Unhealthy,37.93,Very Quiet
+38.19,61.29,107.38,Moderate,58.25,Moderate
+25.18,74.3,480.07,Hazardous,81.65,Loud
+33.25,60.79,411.41,Hazardous,79.32,Loud
+26.23,41.65,83.83,Good,59.59,Moderate
+30.4,31.22,403.92,Hazardous,54.26,Quiet
+30.93,73.5,321.77,Very Unhealthy,57.83,Moderate
+23.7,31.06,90.86,Good,48.5,Quiet
+39.39,73.74,279.15,Unhealthy,44.37,Quiet
+35.5,56.45,292.35,Unhealthy,63.81,Moderate
+38.79,76.95,132.89,Moderate,48.8,Quiet
+37.9,69.94,522.85,Unknown,50.12,Quiet
+31.96,79.9,474.99,Hazardous,75.97,Loud
+38.44,47.54,384.51,Very Unhealthy,97.8,Very Loud
+21.77,68.36,281.15,Unhealthy,72.25,Loud
+23.92,50.1,255.88,Unhealthy,35.39,Very Quiet
+20.9,53.99,375.49,Very Unhealthy,35.29,Very Quiet
+26.51,61.38,322.72,Very Unhealthy,96.6,Very Loud
+27.77,73.68,81.14,Good,50.81,Quiet
+25.43,79.2,306.25,Very Unhealthy,36.44,Very Quiet
+36.57,68.41,453.2,Hazardous,71.93,Loud
+27.14,50.89,279.62,Unhealthy,73.66,Loud
+25.62,51.07,75.98,Good,75.4,Loud
+30.85,66.88,443.14,Hazardous,48.72,Quiet
+22.82,41.94,150.68,Moderate,31.06,Very Quiet
+36.04,35.52,179.31,Moderate,97.55,Very Loud
+21.49,47.73,132.35,Moderate,47.56,Quiet
+39.74,44.36,215.11,Unhealthy,77.32,Loud
+35.44,44.82,428.38,Hazardous,79.46,Loud
+23.97,41.68,309.69,Very Unhealthy,72.7,Loud
+20.11,32.1,152.44,Moderate,51.9,Quiet
+36.31,30.89,488.92,Hazardous,48.98,Quiet
+34.14,79.39,489.79,Hazardous,71.84,Loud
+34.58,51.39,485.29,Hazardous,90.63,Very Loud
+35.43,49.22,169.4,Moderate,96.27,Very Loud
+21.48,63.98,275.62,Unhealthy,37.41,Very Quiet
+27.17,40.91,542.49,Unknown,40.84,Quiet
+22.32,77.5,436.01,Hazardous,96.13,Very Loud
+37.26,69.32,63.58,Good,81.56,Loud
+32.47,34.47,82.6,Good,91.81,Very Loud
+26.62,50.88,281.97,Unhealthy,44.18,Quiet
+21.27,73.96,504.61,Unknown,71.13,Loud
+26.22,77.24,319.35,Very Unhealthy,79.08,Loud
+26.5,53.37,298.91,Unhealthy,77.61,Loud
+34.59,60.67,102.74,Moderate,58.57,Moderate
+32.75,38.35,378.39,Very Unhealthy,31.08,Very Quiet
+37.74,79.56,461.05,Hazardous,70.8,Loud
+29.44,41.58,240.21,Unhealthy,47.72,Quiet
+22.39,77.14,437.81,Hazardous,61.52,Moderate
+34.26,62.48,532.24,Unknown,97.03,Very Loud
+35.22,60.39,151.88,Moderate,57.93,Moderate
+31.23,55.63,311.66,Very Unhealthy,88.79,Very Loud
+35.42,41.53,193.57,Moderate,43.2,Quiet
+29.88,38.83,446.43,Hazardous,77.07,Loud
+30.45,41.02,338.8,Very Unhealthy,98.39,Very Loud
+28.55,39.32,367.29,Very Unhealthy,37.13,Very Quiet
+20.51,68.98,448.96,Hazardous,30.58,Very Quiet
+22.16,47.51,247.99,Unhealthy,60.35,Moderate
+20.63,32.89,507.55,Unknown,36.48,Very Quiet
+32.73,78.46,316.51,Very Unhealthy,82.39,Loud
+26.29,74.19,128.98,Moderate,94.02,Very Loud
+30.17,76.39,397.95,Very Unhealthy,60.38,Moderate
+38.15,79.75,446.63,Hazardous,48.11,Quiet
+24.99,38.69,208.38,Unhealthy,60.41,Moderate
+28.21,49.81,478.59,Hazardous,80.64,Loud
+35.11,67.91,503.07,Unknown,30.63,Very Quiet
+24.58,64.8,188.45,Moderate,71.26,Loud
+21.54,37.69,541.76,Unknown,72.93,Loud
+25.8,70.79,120.36,Moderate,74.64,Loud
+23.22,41.22,151.01,Moderate,46.94,Quiet
+38.59,41.19,142.11,Moderate,79.98,Loud
+36.16,56.85,496.99,Hazardous,36.4,Very Quiet
+32.67,59.65,377.15,Very Unhealthy,43.95,Quiet
+37.43,59.0,126.05,Moderate,91.42,Very Loud
+36.07,34.57,270.16,Unhealthy,81.71,Loud
+23.73,73.87,357.65,Very Unhealthy,30.96,Very Quiet
+37.85,43.28,91.73,Good,47.39,Quiet
+30.79,36.48,491.21,Hazardous,45.01,Quiet
+36.15,74.44,451.8,Hazardous,48.96,Quiet
+37.92,77.78,302.6,Very Unhealthy,47.33,Quiet
+26.36,73.11,533.56,Unknown,34.38,Very Quiet
+22.2,70.48,258.88,Unhealthy,62.13,Moderate
+24.56,62.76,542.06,Unknown,81.29,Loud
+28.54,57.54,383.96,Very Unhealthy,72.47,Loud
+36.36,34.35,367.34,Very Unhealthy,77.1,Loud
+37.21,50.42,132.98,Moderate,35.68,Very Quiet
+20.14,48.63,490.96,Hazardous,96.6,Very Loud
+30.21,42.99,263.74,Unhealthy,88.69,Very Loud
+28.35,66.17,131.12,Moderate,86.36,Very Loud
+24.44,54.79,56.3,Good,87.61,Very Loud
+22.4,34.05,329.88,Very Unhealthy,95.29,Very Loud
+26.75,41.01,313.7,Very Unhealthy,68.1,Moderate
+38.86,64.16,409.68,Hazardous,44.02,Quiet
+26.46,33.81,495.13,Hazardous,73.17,Loud
+30.38,72.56,89.7,Good,82.0,Loud
+34.06,54.76,415.75,Hazardous,81.65,Loud
+27.27,54.03,143.71,Moderate,66.5,Moderate
+39.44,59.62,479.09,Hazardous,34.79,Very Quiet
+39.25,71.23,459.53,Hazardous,55.98,Moderate
+25.04,47.39,320.4,Very Unhealthy,94.45,Very Loud
+29.94,63.9,405.12,Hazardous,70.91,Loud
+26.02,58.29,207.18,Unhealthy,67.68,Moderate
+25.7,43.35,285.58,Unhealthy,48.82,Quiet
+20.74,73.93,460.82,Hazardous,55.79,Moderate
+32.19,69.87,279.63,Unhealthy,92.67,Very Loud
+30.05,62.92,228.9,Unhealthy,76.65,Loud
+21.03,72.53,297.11,Unhealthy,85.12,Very Loud
+25.57,73.36,464.12,Hazardous,61.8,Moderate
+38.17,65.42,217.6,Unhealthy,74.12,Loud
+24.79,71.85,136.88,Moderate,47.39,Quiet
+22.9,64.87,406.01,Hazardous,79.38,Loud
+29.79,64.01,462.99,Hazardous,59.93,Moderate
+39.71,60.93,100.32,Moderate,60.98,Moderate
+24.84,67.64,169.94,Moderate,75.45,Loud
+33.44,37.93,120.99,Moderate,95.54,Very Loud
+35.23,74.04,223.97,Unhealthy,34.48,Very Quiet
+24.75,73.59,275.18,Unhealthy,87.73,Very Loud
+34.56,31.46,424.41,Hazardous,50.47,Quiet
+27.36,71.29,375.57,Very Unhealthy,61.07,Moderate
+32.65,36.44,360.46,Very Unhealthy,31.53,Very Quiet
+32.67,46.76,226.19,Unhealthy,51.07,Quiet
+30.72,67.18,470.72,Hazardous,65.18,Moderate
+21.81,38.04,285.64,Unhealthy,33.93,Very Quiet
+36.71,70.9,539.55,Unknown,64.38,Moderate
+26.42,71.61,367.07,Very Unhealthy,94.9,Very Loud
+23.73,55.37,113.13,Moderate,37.38,Very Quiet
+20.82,30.32,388.09,Very Unhealthy,83.51,Loud
+31.82,44.35,212.55,Unhealthy,58.68,Moderate
+33.55,60.85,393.16,Very Unhealthy,75.86,Loud
+20.33,79.06,84.82,Good,48.22,Quiet
+30.24,61.59,137.44,Moderate,41.16,Quiet
+24.53,42.99,477.87,Hazardous,41.23,Quiet
+32.9,61.7,163.59,Moderate,34.93,Very Quiet
+23.49,57.0,468.52,Hazardous,43.0,Quiet
+33.82,68.99,189.64,Moderate,76.5,Loud
+27.73,35.35,371.44,Very Unhealthy,91.72,Very Loud
+38.73,68.05,397.08,Very Unhealthy,86.99,Very Loud
+22.75,57.06,306.33,Very Unhealthy,77.96,Loud
+26.82,78.15,202.66,Unhealthy,37.73,Very Quiet
+22.27,47.09,156.32,Moderate,50.24,Quiet
+38.49,61.63,66.59,Good,51.69,Quiet
+37.55,76.6,201.97,Unhealthy,47.5,Quiet
+25.16,35.13,376.58,Very Unhealthy,66.05,Moderate
+33.2,76.86,519.15,Unknown,67.49,Moderate
+36.34,64.39,485.6,Hazardous,54.98,Quiet
+31.1,33.39,433.03,Hazardous,54.77,Quiet
+30.59,45.05,444.22,Hazardous,88.0,Very Loud
+24.84,65.41,382.49,Very Unhealthy,85.25,Very Loud
+21.86,33.37,180.14,Moderate,51.55,Quiet
+37.94,59.11,503.6,Unknown,93.97,Very Loud
+38.01,47.29,385.37,Very Unhealthy,96.7,Very Loud
+32.66,61.05,330.22,Very Unhealthy,52.87,Quiet
+26.78,32.29,105.49,Moderate,54.81,Quiet
+26.98,73.58,273.53,Unhealthy,65.39,Moderate
+34.52,78.67,280.18,Unhealthy,95.88,Very Loud
+37.94,78.44,482.28,Hazardous,91.34,Very Loud
+37.74,67.48,323.32,Very Unhealthy,37.18,Very Quiet
+35.6,36.5,240.2,Unhealthy,57.49,Moderate
+32.84,67.91,538.4,Unknown,68.74,Moderate
+21.68,31.23,105.36,Moderate,65.22,Moderate
+23.23,31.11,261.27,Unhealthy,43.57,Quiet
+37.97,46.18,71.01,Good,90.12,Very Loud
+32.13,54.43,419.95,Hazardous,77.39,Loud
+20.18,68.52,509.04,Unknown,88.65,Very Loud
+22.03,64.16,190.02,Moderate,90.11,Very Loud
+33.27,52.3,479.17,Hazardous,82.38,Loud
+20.1,43.68,196.11,Moderate,60.74,Moderate
+23.22,79.86,505.39,Unknown,72.74,Loud
+30.97,51.31,426.98,Hazardous,41.23,Quiet
+33.84,52.57,452.45,Hazardous,77.16,Loud
+33.04,38.18,59.0,Good,42.55,Quiet
+24.49,69.74,531.41,Unknown,78.58,Loud
+34.24,64.68,413.34,Hazardous,46.07,Quiet
+24.74,41.04,202.38,Unhealthy,38.23,Very Quiet
+26.51,34.12,464.7,Hazardous,41.57,Quiet
+34.93,64.02,190.76,Moderate,30.14,Very Quiet
+32.99,62.73,486.38,Hazardous,80.31,Loud
+36.98,43.66,106.29,Moderate,81.27,Loud
+33.15,77.54,401.84,Hazardous,66.05,Moderate
+31.37,37.55,320.35,Very Unhealthy,41.3,Quiet
+21.87,51.62,98.27,Good,35.85,Very Quiet
+27.35,77.18,170.95,Moderate,31.34,Very Quiet
+25.3,50.99,56.2,Good,41.6,Quiet
+24.88,61.93,284.38,Unhealthy,92.36,Very Loud
+39.46,49.88,200.63,Unhealthy,46.91,Quiet
+27.86,43.71,349.18,Very Unhealthy,54.8,Quiet
+37.84,79.2,198.62,Moderate,37.37,Very Quiet
+32.62,50.47,199.96,Moderate,45.57,Quiet
+35.9,74.7,421.6,Hazardous,66.35,Moderate
+30.05,41.5,74.07,Good,72.54,Loud
+31.54,40.66,501.45,Unknown,47.17,Quiet
+29.85,31.56,476.13,Hazardous,34.04,Very Quiet
+23.9,62.58,383.9,Very Unhealthy,57.37,Moderate
+34.45,48.43,346.61,Very Unhealthy,46.39,Quiet
+25.62,73.22,496.15,Hazardous,45.37,Quiet
+20.49,53.66,142.67,Moderate,97.19,Very Loud
+32.91,78.41,89.48,Good,73.14,Loud
+23.54,39.28,169.76,Moderate,68.98,Moderate
+38.81,73.43,447.29,Hazardous,59.1,Moderate
+39.08,68.83,67.34,Good,60.03,Moderate
+38.3,68.55,341.4,Very Unhealthy,67.86,Moderate
+27.4,72.24,547.72,Unknown,78.75,Loud
+20.31,68.05,477.85,Hazardous,79.15,Loud
+38.57,61.31,310.72,Very Unhealthy,42.02,Quiet
+28.56,36.56,81.82,Good,65.01,Moderate
+39.33,31.63,465.69,Hazardous,58.84,Moderate
+39.27,76.04,349.49,Very Unhealthy,90.94,Very Loud
+37.06,60.83,107.47,Moderate,74.2,Loud
+25.89,69.83,96.93,Good,67.28,Moderate
+27.7,54.08,504.81,Unknown,38.08,Very Quiet
+37.02,35.87,384.6,Very Unhealthy,72.39,Loud
+26.34,36.26,464.64,Hazardous,38.2,Very Quiet
+23.39,64.28,489.49,Hazardous,53.6,Quiet
+31.14,51.52,335.89,Very Unhealthy,40.0,Very Quiet
+38.72,40.03,308.72,Very Unhealthy,78.45,Loud
+33.92,54.58,265.21,Unhealthy,44.44,Quiet
+31.4,33.21,208.47,Unhealthy,57.43,Moderate
+21.94,59.1,267.3,Unhealthy,92.7,Very Loud
+32.3,43.45,436.94,Hazardous,44.3,Quiet
+39.8,69.88,350.96,Very Unhealthy,65.55,Moderate
+22.8,45.52,496.26,Hazardous,59.35,Moderate
+30.37,52.76,271.69,Unhealthy,31.27,Very Quiet
+37.55,30.58,353.54,Very Unhealthy,85.49,Very Loud
+34.82,33.62,365.65,Very Unhealthy,34.83,Very Quiet
+33.94,49.62,345.85,Very Unhealthy,63.2,Moderate
+34.05,54.0,401.32,Hazardous,69.25,Moderate
+27.19,60.0,168.72,Moderate,73.99,Loud
+25.87,44.58,306.18,Very Unhealthy,78.2,Loud
+36.19,64.75,102.11,Moderate,47.73,Quiet
+36.2,73.01,242.26,Unhealthy,30.7,Very Quiet
+37.34,68.99,293.83,Unhealthy,80.64,Loud
+38.26,31.98,376.11,Very Unhealthy,67.5,Moderate
+30.23,54.03,525.27,Unknown,88.53,Very Loud
+30.03,35.25,350.33,Very Unhealthy,87.5,Very Loud
+35.97,42.1,421.8,Hazardous,89.03,Very Loud
+33.0,79.33,303.13,Very Unhealthy,63.96,Moderate
+34.04,37.12,367.05,Very Unhealthy,53.35,Quiet
+35.92,54.94,85.47,Good,85.41,Very Loud
+37.8,60.91,177.2,Moderate,61.59,Moderate
+26.76,65.12,230.93,Unhealthy,42.84,Quiet
+27.51,57.98,286.25,Unhealthy,89.85,Very Loud
+21.88,30.49,72.82,Good,91.78,Very Loud
+31.57,46.32,120.01,Moderate,62.64,Moderate
+20.72,55.89,188.41,Moderate,35.3,Very Quiet
+29.31,34.39,535.77,Unknown,57.15,Moderate
+30.85,47.53,215.67,Unhealthy,86.25,Very Loud
+25.73,31.66,291.02,Unhealthy,93.12,Very Loud
+31.82,33.93,148.05,Moderate,44.24,Quiet
+20.61,49.85,355.39,Very Unhealthy,34.69,Very Quiet
+20.75,36.64,190.34,Moderate,91.41,Very Loud
+36.45,58.38,153.5,Moderate,57.26,Moderate
+27.2,64.47,308.29,Very Unhealthy,67.92,Moderate
+22.54,70.03,52.75,Good,97.76,Very Loud
+30.44,40.01,53.83,Good,34.66,Very Quiet
+35.4,38.37,159.53,Moderate,75.38,Loud
+24.32,35.23,68.36,Good,35.19,Very Quiet
+32.46,61.82,104.01,Moderate,56.28,Moderate
+21.71,65.32,219.43,Unhealthy,86.27,Very Loud
+21.03,31.58,451.29,Hazardous,60.34,Moderate
+30.63,76.81,336.02,Very Unhealthy,99.8,Very Loud
+30.81,32.6,306.33,Very Unhealthy,69.13,Moderate
+32.75,57.06,196.74,Moderate,52.48,Quiet
+34.52,65.45,515.88,Unknown,45.41,Quiet
+39.52,73.55,248.51,Unhealthy,54.54,Quiet
+30.33,65.7,93.55,Good,56.08,Moderate
+26.46,70.09,358.53,Very Unhealthy,34.81,Very Quiet
+35.9,46.97,106.92,Moderate,55.87,Moderate
+25.42,70.74,222.61,Unhealthy,62.5,Moderate
+28.78,34.01,303.71,Very Unhealthy,80.59,Loud
+21.57,74.74,487.11,Hazardous,75.97,Loud
+20.51,57.38,296.77,Unhealthy,79.61,Loud
+39.25,70.86,401.13,Hazardous,30.59,Very Quiet
+36.72,52.62,546.41,Unknown,45.24,Quiet
+33.92,62.18,115.74,Moderate,76.32,Loud
+28.18,56.32,187.37,Moderate,63.88,Moderate
+23.47,66.58,247.29,Unhealthy,30.37,Very Quiet
+23.13,34.08,260.91,Unhealthy,86.31,Very Loud
+25.0,33.02,255.51,Unhealthy,84.1,Loud
+30.98,42.36,503.81,Unknown,68.39,Moderate
+34.29,37.98,407.02,Hazardous,34.65,Very Quiet
+33.2,73.59,353.95,Very Unhealthy,83.66,Loud
+25.6,40.96,204.69,Unhealthy,70.86,Loud
+39.1,78.79,461.9,Hazardous,84.74,Loud
+34.76,46.84,527.53,Unknown,82.62,Loud
+31.09,39.11,460.6,Hazardous,86.21,Very Loud
+32.23,69.48,50.78,Good,66.26,Moderate
+28.39,62.94,368.2,Very Unhealthy,39.82,Very Quiet
+24.95,54.91,75.57,Good,76.98,Loud
+27.12,57.77,178.8,Moderate,73.43,Loud
+35.16,65.96,79.76,Good,81.96,Loud
+20.29,41.42,351.9,Very Unhealthy,41.89,Quiet
+22.32,79.82,393.29,Very Unhealthy,43.65,Quiet
+20.92,78.74,107.24,Moderate,92.33,Very Loud
+20.81,62.52,241.92,Unhealthy,82.5,Loud
+37.11,39.98,278.12,Unhealthy,93.58,Very Loud
+34.07,64.01,234.53,Unhealthy,83.11,Loud
+29.48,33.61,110.51,Moderate,71.8,Loud
+21.96,31.53,259.47,Unhealthy,75.79,Loud
+29.83,42.88,425.59,Hazardous,92.24,Very Loud
+29.47,53.13,85.5,Good,70.52,Loud
+23.46,73.41,90.09,Good,74.27,Loud
+28.68,66.36,227.39,Unhealthy,40.95,Quiet
+27.97,67.14,520.86,Unknown,63.17,Moderate
+32.32,51.27,384.29,Very Unhealthy,80.15,Loud
+32.7,47.3,389.33,Very Unhealthy,48.97,Quiet
+20.91,48.55,230.96,Unhealthy,44.16,Quiet
+27.49,79.38,346.83,Very Unhealthy,51.97,Quiet
+32.52,32.01,55.07,Good,46.91,Quiet
+30.06,73.35,368.05,Very Unhealthy,45.04,Quiet
+37.13,58.93,506.64,Unknown,59.74,Moderate
+33.17,51.93,356.29,Very Unhealthy,93.55,Very Loud
+23.26,66.26,486.85,Hazardous,65.49,Moderate
+21.41,54.33,411.99,Hazardous,43.15,Quiet
+32.85,73.67,110.28,Moderate,35.39,Very Quiet
+20.53,75.04,501.23,Unknown,78.73,Loud
+31.72,51.09,83.22,Good,56.8,Moderate
+38.8,43.84,316.98,Very Unhealthy,87.53,Very Loud
+31.51,59.62,121.07,Moderate,76.17,Loud
+27.76,75.62,55.85,Good,85.74,Very Loud
+32.87,40.53,261.02,Unhealthy,49.04,Quiet
+29.17,61.15,197.52,Moderate,78.47,Loud
+30.91,61.58,293.0,Unhealthy,48.48,Quiet
+38.83,66.66,338.6,Very Unhealthy,95.73,Very Loud
+27.72,36.58,71.87,Good,74.55,Loud
+39.22,65.79,111.5,Moderate,52.72,Quiet
+38.11,75.45,329.32,Very Unhealthy,48.87,Quiet
+23.92,38.98,221.58,Unhealthy,43.36,Quiet
+21.39,41.88,414.59,Hazardous,78.62,Loud
+22.02,78.57,376.15,Very Unhealthy,45.31,Quiet
+20.36,39.05,472.8,Hazardous,71.67,Loud
+21.89,72.72,396.25,Very Unhealthy,48.52,Quiet
+33.66,54.61,264.97,Unhealthy,76.34,Loud
+21.42,42.36,386.48,Very Unhealthy,87.05,Very Loud
+26.38,73.54,187.69,Moderate,84.46,Loud
+36.9,52.27,203.16,Unhealthy,83.26,Loud
+20.47,55.74,444.49,Hazardous,43.14,Quiet
+36.29,47.96,273.21,Unhealthy,36.19,Very Quiet
+25.64,59.65,449.19,Hazardous,78.93,Loud
+22.36,38.18,461.21,Hazardous,55.78,Moderate
+33.93,49.55,478.78,Hazardous,60.26,Moderate
+32.58,78.47,508.32,Unknown,32.18,Very Quiet
+37.55,42.91,265.49,Unhealthy,48.17,Quiet
+34.7,62.84,209.43,Unhealthy,32.36,Very Quiet
+36.07,46.26,341.1,Very Unhealthy,91.54,Very Loud
+25.64,68.67,235.59,Unhealthy,47.04,Quiet
+23.55,36.54,350.54,Very Unhealthy,69.01,Moderate
+35.01,78.49,402.79,Hazardous,32.73,Very Quiet
+36.14,52.69,394.2,Very Unhealthy,76.68,Loud
+39.81,41.8,237.28,Unhealthy,52.61,Quiet
+28.25,33.67,133.43,Moderate,92.85,Very Loud
+27.44,38.49,265.26,Unhealthy,92.17,Very Loud
+35.53,55.99,121.3,Moderate,52.77,Quiet
+26.82,46.85,495.05,Hazardous,93.07,Very Loud
+38.62,71.44,222.94,Unhealthy,99.73,Very Loud
+37.17,51.54,127.23,Moderate,87.78,Very Loud
+28.58,42.44,62.72,Good,89.14,Very Loud
+35.02,60.86,372.91,Very Unhealthy,47.43,Quiet
+35.09,65.34,368.45,Very Unhealthy,70.37,Loud
+22.06,38.35,220.3,Unhealthy,34.71,Very Quiet
+38.05,38.38,85.86,Good,36.64,Very Quiet
+30.11,31.83,254.81,Unhealthy,99.92,Very Loud
+36.53,66.82,205.61,Unhealthy,52.86,Quiet
+26.4,63.19,388.56,Very Unhealthy,82.37,Loud
+37.91,53.73,352.89,Very Unhealthy,86.47,Very Loud
+27.78,72.21,232.3,Unhealthy,90.06,Very Loud
+20.22,70.28,158.95,Moderate,99.83,Very Loud
+38.11,59.27,544.02,Unknown,46.9,Quiet
+21.83,73.41,277.0,Unhealthy,32.82,Very Quiet
+26.39,40.29,394.14,Very Unhealthy,58.78,Moderate
+39.0,35.6,120.28,Moderate,39.11,Very Quiet
+39.01,43.49,292.79,Unhealthy,31.57,Very Quiet
+31.47,32.85,63.77,Good,55.23,Moderate
+32.64,56.56,302.73,Very Unhealthy,84.86,Loud
+28.97,76.83,532.01,Unknown,69.63,Moderate
+25.86,31.97,242.1,Unhealthy,51.89,Quiet
+26.57,36.11,69.5,Good,75.8,Loud
+33.45,52.61,65.48,Good,46.24,Quiet
+35.05,76.69,243.99,Unhealthy,31.01,Very Quiet
+35.83,45.81,130.01,Moderate,83.5,Loud
+35.79,55.36,61.68,Good,73.66,Loud
+21.82,32.08,428.11,Hazardous,83.36,Loud
+29.89,37.42,279.26,Unhealthy,32.73,Very Quiet
+21.15,79.33,194.62,Moderate,88.6,Very Loud
+30.99,78.26,500.04,Unknown,73.37,Loud
+28.83,30.25,108.07,Moderate,69.44,Moderate
+37.75,77.59,527.96,Unknown,73.72,Loud
+27.02,61.96,206.98,Unhealthy,90.51,Very Loud
+22.34,73.4,494.2,Hazardous,71.09,Loud
+22.86,52.74,351.47,Very Unhealthy,70.67,Loud
+35.23,55.78,463.35,Hazardous,99.35,Very Loud
+32.36,54.44,542.01,Unknown,82.97,Loud
+22.02,63.34,194.2,Moderate,60.96,Moderate
+21.68,36.98,530.57,Unknown,79.52,Loud
+34.02,31.5,244.74,Unhealthy,57.25,Moderate
+21.46,45.4,242.76,Unhealthy,46.02,Quiet
+36.44,65.23,220.19,Unhealthy,71.78,Loud
+34.12,40.09,320.7,Very Unhealthy,94.97,Very Loud
+21.63,63.67,127.07,Moderate,95.04,Very Loud
+21.7,78.5,326.86,Very Unhealthy,53.93,Quiet
+39.73,34.7,320.85,Very Unhealthy,66.94,Moderate
+27.49,63.63,430.95,Hazardous,44.81,Quiet
+27.41,52.19,466.82,Hazardous,99.69,Very Loud
+36.26,73.41,270.22,Unhealthy,98.68,Very Loud
+38.94,38.86,201.17,Unhealthy,75.47,Loud
+39.72,64.63,179.67,Moderate,86.31,Very Loud
+35.07,71.91,147.31,Moderate,80.06,Loud
+27.53,77.23,78.82,Good,71.52,Loud
+21.67,64.16,221.22,Unhealthy,33.73,Very Quiet
+35.54,54.86,185.12,Moderate,61.83,Moderate
+31.17,60.89,533.21,Unknown,77.24,Loud
+28.48,73.45,328.85,Very Unhealthy,77.43,Loud
+38.13,58.53,223.64,Unhealthy,56.12,Moderate
+22.22,31.52,340.23,Very Unhealthy,95.92,Very Loud
+29.85,76.55,119.6,Moderate,41.71,Quiet
+20.23,64.48,272.02,Unhealthy,65.03,Moderate
+29.37,63.83,363.12,Very Unhealthy,78.36,Loud
+21.13,40.78,294.45,Unhealthy,78.8,Loud
+22.38,62.94,250.89,Unhealthy,75.4,Loud
+22.35,49.69,546.92,Unknown,49.27,Quiet
+32.98,62.56,490.16,Hazardous,40.93,Quiet
+34.92,35.33,361.7,Very Unhealthy,74.52,Loud
+31.67,62.89,334.69,Very Unhealthy,71.95,Loud
+39.24,79.97,360.33,Very Unhealthy,42.55,Quiet
+27.5,32.41,150.66,Moderate,79.36,Loud
+25.71,78.86,247.57,Unhealthy,61.86,Moderate
+37.37,50.35,69.73,Good,76.74,Loud
+24.47,73.54,287.77,Unhealthy,88.62,Very Loud
+39.26,69.12,321.51,Very Unhealthy,41.88,Quiet
+20.24,58.35,163.87,Moderate,31.34,Very Quiet
+39.4,66.92,532.01,Unknown,84.54,Loud
+20.86,73.93,504.73,Unknown,72.68,Loud
+37.82,50.21,411.07,Hazardous,78.97,Loud
+30.55,46.35,316.69,Very Unhealthy,88.67,Very Loud
+39.86,63.38,484.98,Hazardous,86.2,Very Loud
+21.48,70.39,115.33,Moderate,97.26,Very Loud
+31.08,68.11,445.25,Hazardous,67.52,Moderate
+39.39,69.89,112.41,Moderate,64.19,Moderate
+30.46,51.78,447.11,Hazardous,58.13,Moderate
+32.59,70.89,187.88,Moderate,40.76,Quiet
+33.91,36.01,488.55,Hazardous,70.08,Loud
+29.09,57.22,522.02,Unknown,49.39,Quiet
+32.55,30.29,124.4,Moderate,94.49,Very Loud
+31.69,46.23,281.34,Unhealthy,70.82,Loud
+38.02,48.32,540.49,Unknown,71.5,Loud
+20.91,49.81,291.7,Unhealthy,54.84,Quiet
+25.62,64.77,481.77,Hazardous,33.64,Very Quiet
+39.01,49.43,344.37,Very Unhealthy,32.22,Very Quiet
+37.81,52.43,237.66,Unhealthy,59.63,Moderate
+29.11,41.88,192.89,Moderate,35.92,Very Quiet
+32.4,48.66,151.61,Moderate,72.48,Loud
+25.55,41.36,430.9,Hazardous,91.67,Very Loud
+23.76,33.66,243.27,Unhealthy,91.8,Very Loud
+29.27,60.17,305.64,Very Unhealthy,76.13,Loud
+27.07,63.41,296.16,Unhealthy,44.79,Quiet
+31.67,60.97,338.64,Very Unhealthy,90.41,Very Loud
+21.55,53.17,482.79,Hazardous,92.03,Very Loud
+39.49,48.99,540.37,Unknown,43.77,Quiet
+39.72,73.17,253.79,Unhealthy,81.62,Loud
+33.96,55.95,463.76,Hazardous,50.06,Quiet
+30.72,53.96,432.26,Hazardous,86.18,Very Loud
+26.19,31.28,336.76,Very Unhealthy,99.81,Very Loud
+36.28,47.06,528.02,Unknown,32.1,Very Quiet
+33.69,49.01,150.24,Moderate,92.82,Very Loud
+23.25,49.94,104.63,Moderate,73.58,Loud
+38.22,59.01,476.98,Hazardous,98.14,Very Loud
+36.45,56.68,269.57,Unhealthy,62.55,Moderate
+39.0,60.4,473.48,Hazardous,89.32,Very Loud
+34.51,68.24,496.55,Hazardous,34.37,Very Quiet
+32.27,70.65,81.23,Good,53.47,Quiet
+28.36,65.91,491.73,Hazardous,34.69,Very Quiet
+38.65,77.78,274.16,Unhealthy,98.27,Very Loud
+37.32,30.91,305.22,Very Unhealthy,87.19,Very Loud
+20.9,39.79,363.3,Very Unhealthy,89.68,Very Loud
+20.53,30.38,513.19,Unknown,95.66,Very Loud
+27.53,62.37,59.56,Good,35.96,Very Quiet
+36.21,74.9,288.42,Unhealthy,56.99,Moderate
+39.75,42.17,393.86,Very Unhealthy,34.97,Very Quiet
+23.01,76.35,411.35,Hazardous,44.76,Quiet
+31.88,33.01,396.27,Very Unhealthy,46.06,Quiet
+27.62,76.72,117.22,Moderate,62.84,Moderate
+39.4,47.58,199.7,Moderate,48.8,Quiet
+36.84,35.07,229.36,Unhealthy,37.07,Very Quiet
+36.77,54.29,452.22,Hazardous,41.72,Quiet
+29.37,42.84,189.38,Moderate,40.31,Quiet
+28.3,44.24,155.35,Moderate,98.12,Very Loud
+25.47,45.36,528.72,Unknown,83.15,Loud
+21.13,70.15,54.43,Good,97.74,Very Loud
+37.29,56.96,548.91,Unknown,60.78,Moderate
+36.26,45.57,388.41,Very Unhealthy,49.49,Quiet
+39.99,60.52,464.23,Hazardous,85.88,Very Loud
+39.93,65.81,197.31,Moderate,52.84,Quiet
+31.11,43.63,57.16,Good,50.96,Quiet
+35.38,50.68,418.93,Hazardous,46.28,Quiet
+38.9,36.09,467.07,Hazardous,39.08,Very Quiet
+36.99,39.06,420.24,Hazardous,47.95,Quiet
+24.95,64.06,121.43,Moderate,54.87,Quiet
+29.01,39.07,426.71,Hazardous,77.18,Loud
+22.58,56.26,434.46,Hazardous,34.38,Very Quiet
+39.08,65.45,379.27,Very Unhealthy,44.74,Quiet
+32.12,35.34,433.06,Hazardous,86.63,Very Loud
+24.57,58.37,472.96,Hazardous,40.28,Quiet
+33.43,42.83,356.8,Very Unhealthy,53.99,Quiet
+32.36,78.15,94.3,Good,90.53,Very Loud
+27.16,54.18,293.81,Unhealthy,40.84,Quiet
+22.27,70.3,88.82,Good,35.79,Very Quiet
+33.43,57.51,253.77,Unhealthy,63.92,Moderate
+30.41,32.17,253.55,Unhealthy,51.17,Quiet
+35.45,61.66,83.0,Good,69.44,Moderate
+30.4,77.57,224.41,Unhealthy,86.27,Very Loud
+37.04,60.08,105.5,Moderate,39.6,Very Quiet
+31.04,70.96,454.12,Hazardous,70.65,Loud
+31.22,74.21,523.84,Unknown,65.39,Moderate
+37.53,41.4,86.16,Good,40.09,Quiet
+28.07,40.6,527.56,Unknown,73.68,Loud
+22.68,60.55,311.29,Very Unhealthy,49.15,Quiet
+20.58,50.55,199.78,Moderate,64.15,Moderate
+35.1,71.99,88.43,Good,35.76,Very Quiet
+32.41,75.0,300.31,Very Unhealthy,62.17,Moderate
+34.08,47.67,447.26,Hazardous,51.45,Quiet
+24.26,41.84,403.54,Hazardous,87.57,Very Loud
+22.73,69.03,75.11,Good,33.99,Very Quiet
+20.29,43.74,86.45,Good,59.3,Moderate
+27.01,71.13,251.44,Unhealthy,62.09,Moderate
+31.8,51.19,197.65,Moderate,80.75,Loud
+27.84,63.38,166.19,Moderate,70.2,Loud
+28.75,34.78,190.5,Moderate,76.7,Loud
+38.08,61.19,451.74,Hazardous,84.39,Loud
+26.97,52.59,514.61,Unknown,90.35,Very Loud
+30.28,59.33,252.55,Unhealthy,51.97,Quiet
+35.67,38.4,503.06,Unknown,67.66,Moderate
+27.93,66.84,210.75,Unhealthy,88.81,Very Loud
+32.44,73.14,288.22,Unhealthy,99.26,Very Loud
+37.25,40.84,163.01,Moderate,92.27,Very Loud
+38.99,34.79,370.24,Very Unhealthy,56.0,Moderate
+22.94,31.18,539.49,Unknown,43.66,Quiet
+38.53,62.1,351.75,Very Unhealthy,64.26,Moderate
+29.84,60.35,228.91,Unhealthy,81.91,Loud
+25.16,57.33,373.91,Very Unhealthy,64.48,Moderate
+29.18,41.6,111.46,Moderate,63.82,Moderate
+39.6,49.55,494.33,Hazardous,88.68,Very Loud
+29.85,59.72,301.54,Very Unhealthy,55.3,Moderate
+26.58,54.84,274.67,Unhealthy,90.19,Very Loud
+32.67,79.39,342.93,Very Unhealthy,58.48,Moderate
+24.8,36.82,362.39,Very Unhealthy,52.98,Quiet
+21.52,64.76,85.89,Good,61.78,Moderate
+22.58,50.22,391.31,Very Unhealthy,83.37,Loud
+22.56,51.41,170.97,Moderate,38.82,Very Quiet
+23.04,65.88,406.98,Hazardous,43.75,Quiet
+22.78,64.62,461.27,Hazardous,96.6,Very Loud
+32.82,79.56,451.98,Hazardous,42.28,Quiet
+23.64,36.42,326.25,Very Unhealthy,69.74,Moderate
+26.91,35.21,310.08,Very Unhealthy,70.55,Loud
+37.94,66.22,121.44,Moderate,64.27,Moderate
+29.48,58.92,437.67,Hazardous,75.13,Loud
+33.35,43.71,185.7,Moderate,46.09,Quiet
+23.45,33.97,298.35,Unhealthy,68.69,Moderate
+23.85,34.28,192.14,Moderate,56.05,Moderate
+20.82,74.71,116.91,Moderate,76.32,Loud
+23.38,39.59,364.78,Very Unhealthy,39.89,Very Quiet
+25.57,46.17,77.17,Good,69.96,Moderate
+23.54,41.33,424.32,Hazardous,42.97,Quiet
+21.77,47.75,208.79,Unhealthy,49.51,Quiet
+22.41,33.47,50.07,Good,45.31,Quiet
+29.22,55.95,305.56,Very Unhealthy,42.8,Quiet
+24.13,33.38,73.43,Good,87.8,Very Loud
+27.29,70.02,188.08,Moderate,50.0,Quiet
+30.07,41.69,403.49,Hazardous,94.9,Very Loud
+33.81,57.0,81.34,Good,97.89,Very Loud
+20.79,74.0,469.67,Hazardous,69.99,Moderate
+35.99,62.54,51.91,Good,40.01,Quiet
+32.56,56.65,173.41,Moderate,56.22,Moderate
+21.64,46.22,420.45,Hazardous,85.84,Very Loud
+37.47,46.65,208.14,Unhealthy,55.72,Moderate
+38.42,63.47,100.95,Moderate,36.09,Very Quiet
+21.22,79.71,230.12,Unhealthy,68.97,Moderate
+25.54,63.09,185.2,Moderate,89.16,Very Loud
+36.12,57.89,471.36,Hazardous,85.71,Very Loud
+34.97,66.53,206.67,Unhealthy,42.26,Quiet
+23.69,53.26,444.47,Hazardous,77.09,Loud
+24.19,33.01,495.94,Hazardous,45.44,Quiet
+27.41,58.11,266.91,Unhealthy,45.27,Quiet
+29.69,77.88,504.97,Unknown,91.19,Very Loud
+32.37,38.77,238.66,Unhealthy,47.48,Quiet
+27.38,64.5,532.04,Unknown,48.43,Quiet
+29.25,40.05,94.64,Good,30.05,Very Quiet
+34.95,56.79,393.51,Very Unhealthy,90.95,Very Loud
+20.73,34.83,296.91,Unhealthy,85.48,Very Loud
+25.05,52.52,243.82,Unhealthy,73.91,Loud
+34.27,67.81,366.36,Very Unhealthy,82.52,Loud
+37.9,47.38,401.93,Hazardous,40.64,Quiet
+30.23,63.25,52.18,Good,62.08,Moderate
+30.64,69.77,133.48,Moderate,54.59,Quiet
+22.14,76.36,406.52,Hazardous,36.56,Very Quiet
+28.95,41.73,383.19,Very Unhealthy,64.03,Moderate
+30.65,49.97,533.02,Unknown,94.45,Very Loud
+24.85,37.62,430.52,Hazardous,32.8,Very Quiet
+25.38,79.62,525.39,Unknown,50.4,Quiet
+27.55,76.35,401.27,Hazardous,44.53,Quiet
+20.4,57.0,199.03,Moderate,46.67,Quiet
+26.44,72.1,102.68,Moderate,93.59,Very Loud
+24.23,56.05,440.91,Hazardous,62.76,Moderate
+26.55,61.18,372.07,Very Unhealthy,62.64,Moderate
+22.4,34.46,74.09,Good,83.24,Loud
+37.81,67.76,230.03,Unhealthy,40.81,Quiet
+31.87,36.39,528.4,Unknown,64.11,Moderate
+33.58,71.3,300.2,Very Unhealthy,60.1,Moderate
+35.78,69.1,266.36,Unhealthy,71.78,Loud
+29.97,65.44,278.85,Unhealthy,99.97,Very Loud
+21.74,31.81,154.44,Moderate,83.86,Loud
+30.74,45.16,234.35,Unhealthy,57.85,Moderate
+31.74,43.16,234.91,Unhealthy,87.93,Very Loud
+34.91,48.01,76.18,Good,41.95,Quiet
+28.63,34.38,433.78,Hazardous,32.13,Very Quiet
+22.55,76.85,258.25,Unhealthy,44.31,Quiet
+25.68,57.69,461.09,Hazardous,53.83,Quiet
+27.26,45.28,475.17,Hazardous,65.74,Moderate
+32.92,49.85,156.0,Moderate,73.06,Loud
+31.42,52.36,378.68,Very Unhealthy,93.74,Very Loud
+27.12,60.03,286.14,Unhealthy,65.69,Moderate
+39.73,55.78,490.08,Hazardous,65.09,Moderate
+32.12,75.97,157.87,Moderate,33.52,Very Quiet
+24.74,54.85,388.91,Very Unhealthy,32.44,Very Quiet
+22.04,79.61,353.88,Very Unhealthy,68.58,Moderate
+23.06,72.57,197.65,Moderate,60.67,Moderate
+24.92,40.43,118.3,Moderate,88.74,Very Loud
+23.21,76.53,375.82,Very Unhealthy,41.25,Quiet
+23.73,35.82,419.3,Hazardous,31.75,Very Quiet
+25.7,70.87,207.81,Unhealthy,61.43,Moderate
+23.47,49.03,372.42,Very Unhealthy,46.62,Quiet
+37.94,73.9,247.57,Unhealthy,33.47,Very Quiet
+21.6,73.4,406.6,Hazardous,80.72,Loud
+30.49,70.3,149.61,Moderate,37.81,Very Quiet
+28.21,69.5,495.11,Hazardous,72.58,Loud
+39.65,45.23,193.7,Moderate,49.67,Quiet
+22.24,34.05,233.89,Unhealthy,42.14,Quiet
+27.96,50.15,79.05,Good,56.58,Moderate
+39.39,38.68,105.76,Moderate,86.1,Very Loud
+37.31,64.75,307.93,Very Unhealthy,57.45,Moderate
+36.34,47.3,183.8,Moderate,82.55,Loud
+25.16,78.78,467.74,Hazardous,38.78,Very Quiet
+23.42,62.05,57.35,Good,84.09,Loud
+33.37,71.12,239.55,Unhealthy,46.59,Quiet
+38.59,36.63,218.67,Unhealthy,77.42,Loud
+31.14,73.1,59.66,Good,69.6,Moderate
+31.43,76.14,112.18,Moderate,95.04,Very Loud
+25.6,54.35,256.82,Unhealthy,57.11,Moderate
+35.39,60.31,296.43,Unhealthy,34.63,Very Quiet
+23.74,68.24,252.14,Unhealthy,31.34,Very Quiet
+26.47,38.74,315.47,Very Unhealthy,87.88,Very Loud
+28.51,55.13,347.57,Very Unhealthy,66.73,Moderate
+30.15,49.93,54.96,Good,84.27,Loud
+24.85,37.32,282.05,Unhealthy,46.41,Quiet
+22.3,48.38,531.75,Unknown,54.16,Quiet
+32.21,33.41,309.52,Very Unhealthy,32.11,Very Quiet
+25.77,31.29,388.77,Very Unhealthy,97.3,Very Loud
+31.62,36.76,205.93,Unhealthy,76.75,Loud
+23.09,78.16,437.0,Hazardous,95.32,Very Loud
+29.62,57.48,436.46,Hazardous,48.58,Quiet
+30.65,78.29,310.65,Very Unhealthy,72.8,Loud
+21.04,51.62,538.01,Unknown,77.49,Loud
+26.73,45.59,112.78,Moderate,52.23,Quiet
+22.69,55.31,58.47,Good,89.37,Very Loud
+21.27,51.98,435.08,Hazardous,96.3,Very Loud
+39.8,35.28,453.58,Hazardous,91.94,Very Loud
+26.45,62.04,110.1,Moderate,81.73,Loud
+36.2,40.8,182.79,Moderate,49.42,Quiet
+25.09,60.98,58.78,Good,49.71,Quiet
+33.63,62.51,196.65,Moderate,97.44,Very Loud
+35.2,37.6,436.57,Hazardous,30.72,Very Quiet
+31.91,33.07,308.98,Very Unhealthy,80.12,Loud
+29.43,69.04,224.05,Unhealthy,79.44,Loud
+28.24,52.99,235.87,Unhealthy,73.59,Loud
+26.98,32.91,50.68,Good,99.31,Very Loud
+38.59,79.74,199.9,Moderate,51.83,Quiet
+36.61,32.89,373.23,Very Unhealthy,53.8,Quiet
+39.3,64.75,537.1,Unknown,35.53,Very Quiet
+22.49,79.18,473.53,Hazardous,61.0,Moderate
+34.62,41.96,61.8,Good,48.27,Quiet
+38.77,37.11,499.28,Hazardous,54.04,Quiet
+23.62,36.07,441.6,Hazardous,88.42,Very Loud
+21.33,45.16,440.19,Hazardous,95.48,Very Loud
+34.82,35.05,279.0,Unhealthy,43.0,Quiet
+31.49,64.61,249.0,Unhealthy,56.08,Moderate
+36.84,33.11,201.46,Unhealthy,95.0,Very Loud
+22.8,55.47,82.85,Good,34.33,Very Quiet
+35.91,79.83,164.12,Moderate,36.47,Very Quiet
+24.03,70.7,173.3,Moderate,41.4,Quiet
+23.27,60.76,292.04,Unhealthy,71.66,Loud
+23.29,45.31,423.72,Hazardous,40.53,Quiet
+36.29,61.19,286.9,Unhealthy,97.77,Very Loud
+33.3,56.35,78.92,Good,61.27,Moderate
+30.46,51.3,528.89,Unknown,65.11,Moderate
+27.18,36.54,521.36,Unknown,47.27,Quiet
+37.54,74.33,442.59,Hazardous,62.97,Moderate
+27.85,52.49,545.66,Unknown,76.33,Loud
+36.33,39.73,322.24,Very Unhealthy,82.58,Loud
+28.78,48.39,531.38,Unknown,82.77,Loud
+27.54,50.71,87.8,Good,70.45,Loud
+29.25,71.38,232.84,Unhealthy,93.31,Very Loud
+26.03,66.68,162.69,Moderate,87.22,Very Loud
+34.95,68.47,147.92,Moderate,82.99,Loud
+30.05,30.55,120.4,Moderate,33.89,Very Quiet
+24.64,50.81,361.21,Very Unhealthy,30.48,Very Quiet
+37.99,54.07,440.66,Hazardous,44.87,Quiet
+27.68,30.96,339.15,Very Unhealthy,76.45,Loud
+30.87,42.99,123.48,Moderate,58.78,Moderate
+38.13,68.01,455.56,Hazardous,58.17,Moderate
+32.48,36.86,367.98,Very Unhealthy,91.92,Very Loud
+22.34,56.77,244.08,Unhealthy,92.69,Very Loud
+38.8,40.76,387.07,Very Unhealthy,93.64,Very Loud
+32.55,30.61,179.95,Moderate,51.97,Quiet
+26.7,42.06,222.6,Unhealthy,78.37,Loud
+22.79,78.79,508.74,Unknown,49.01,Quiet
+35.88,70.08,195.25,Moderate,43.34,Quiet
+32.4,77.98,284.99,Unhealthy,42.92,Quiet
+30.67,54.39,495.07,Hazardous,53.95,Quiet
+37.88,35.49,403.86,Hazardous,60.1,Moderate
+35.77,57.4,81.1,Good,88.17,Very Loud
+23.03,52.72,123.65,Moderate,38.39,Very Quiet
+26.23,72.22,53.92,Good,81.44,Loud
+24.97,34.9,365.46,Very Unhealthy,67.2,Moderate
+34.88,54.41,273.84,Unhealthy,50.16,Quiet
+20.67,37.5,117.14,Moderate,64.5,Moderate
+31.4,46.23,528.97,Unknown,51.0,Quiet
+35.25,66.87,314.83,Very Unhealthy,71.73,Loud
+37.54,53.8,170.95,Moderate,60.37,Moderate
+26.84,48.79,300.3,Very Unhealthy,41.51,Quiet
+36.43,49.72,389.81,Very Unhealthy,38.16,Very Quiet
+22.21,52.97,88.12,Good,68.27,Moderate
+36.93,69.25,187.35,Moderate,93.17,Very Loud
+22.55,74.6,453.48,Hazardous,54.08,Quiet
+27.95,77.77,279.83,Unhealthy,81.31,Loud
+35.95,69.35,323.29,Very Unhealthy,76.11,Loud
+23.0,45.77,266.41,Unhealthy,95.21,Very Loud
+24.59,64.41,71.95,Good,87.47,Very Loud
+34.45,51.88,132.87,Moderate,69.66,Moderate
+34.4,42.73,272.77,Unhealthy,75.99,Loud
+32.82,72.04,154.59,Moderate,92.89,Very Loud
+33.88,31.92,74.99,Good,57.97,Moderate
+30.85,75.09,471.82,Hazardous,52.88,Quiet
+25.04,53.07,540.6,Unknown,30.76,Very Quiet
+26.91,61.86,446.57,Hazardous,87.86,Very Loud
+23.63,62.97,476.89,Hazardous,86.07,Very Loud
+38.17,74.76,170.99,Moderate,37.31,Very Quiet
+31.67,61.83,530.31,Unknown,70.38,Loud
+28.02,60.7,148.46,Moderate,62.48,Moderate
+29.24,33.33,525.71,Unknown,38.31,Very Quiet
+38.95,55.92,547.41,Unknown,98.64,Very Loud
+23.07,37.51,405.86,Hazardous,45.03,Quiet
+31.72,66.87,540.57,Unknown,34.71,Very Quiet
+30.12,55.61,334.77,Very Unhealthy,71.64,Loud
+32.23,64.01,179.77,Moderate,81.72,Loud
+20.36,32.08,268.5,Unhealthy,32.27,Very Quiet
+37.44,34.24,346.78,Very Unhealthy,76.11,Loud
+38.64,65.82,86.54,Good,67.26,Moderate
+31.3,33.6,361.17,Very Unhealthy,37.23,Very Quiet
+33.93,33.56,540.59,Unknown,42.08,Quiet
+38.45,30.61,145.05,Moderate,69.76,Moderate
+34.14,77.83,446.3,Hazardous,50.75,Quiet
+23.05,66.88,503.95,Unknown,95.68,Very Loud
+31.53,47.66,521.85,Unknown,87.31,Very Loud
+32.13,44.83,530.07,Unknown,98.85,Very Loud
+28.48,47.49,310.73,Very Unhealthy,48.18,Quiet
+34.73,68.73,538.65,Unknown,97.88,Very Loud
+38.69,63.07,428.66,Hazardous,60.19,Moderate
+38.51,39.26,130.84,Moderate,54.33,Quiet
+29.02,38.71,288.45,Unhealthy,33.52,Very Quiet
+22.26,34.92,409.17,Hazardous,33.69,Very Quiet
+39.7,63.02,173.67,Moderate,78.44,Loud
+36.78,68.22,370.31,Very Unhealthy,62.06,Moderate
+22.49,43.25,383.3,Very Unhealthy,45.86,Quiet
+38.42,31.05,131.35,Moderate,72.98,Loud
+37.4,34.11,332.54,Very Unhealthy,47.7,Quiet
+30.38,78.39,435.81,Hazardous,70.43,Loud
+31.83,44.77,299.45,Unhealthy,55.14,Moderate
+27.98,68.46,56.05,Good,87.65,Very Loud
+21.1,61.23,54.52,Good,87.45,Very Loud
+26.7,49.1,228.51,Unhealthy,63.41,Moderate
+36.06,40.28,513.1,Unknown,54.56,Quiet
+20.09,36.07,164.34,Moderate,55.38,Moderate
+26.67,60.75,367.18,Very Unhealthy,86.4,Very Loud
+27.96,68.73,161.04,Moderate,52.97,Quiet
+30.75,62.2,210.83,Unhealthy,44.63,Quiet
+38.4,56.52,474.02,Hazardous,35.93,Very Quiet
+26.93,32.1,414.43,Hazardous,62.67,Moderate
+26.94,78.42,97.7,Good,63.75,Moderate
+34.75,69.94,264.35,Unhealthy,88.86,Very Loud
+29.04,44.64,64.58,Good,45.49,Quiet
+24.49,79.0,290.45,Unhealthy,56.67,Moderate
+29.05,60.09,381.22,Very Unhealthy,86.59,Very Loud
+22.82,59.12,109.25,Moderate,87.65,Very Loud
+23.53,67.4,194.44,Moderate,56.92,Moderate
+29.97,70.59,248.92,Unhealthy,62.14,Moderate
+28.38,62.82,509.77,Unknown,51.23,Quiet
+38.3,36.4,546.63,Unknown,95.28,Very Loud
+27.25,46.91,72.46,Good,38.31,Very Quiet
+31.61,76.4,430.5,Hazardous,95.36,Very Loud
+32.65,41.23,235.86,Unhealthy,77.87,Loud
+20.26,48.61,246.23,Unhealthy,67.21,Moderate
+33.27,51.6,427.13,Hazardous,32.29,Very Quiet
+23.56,51.97,509.21,Unknown,63.29,Moderate
+39.22,60.65,525.46,Unknown,58.54,Moderate
+22.97,77.15,338.56,Very Unhealthy,41.29,Quiet
+28.29,42.03,228.56,Unhealthy,75.95,Loud
+21.71,36.08,443.77,Hazardous,97.98,Very Loud
+39.94,39.87,175.5,Moderate,69.35,Moderate
+30.04,74.35,332.04,Very Unhealthy,80.03,Loud
+31.91,62.29,229.29,Unhealthy,34.79,Very Quiet
+21.34,44.3,378.32,Very Unhealthy,59.24,Moderate
+35.0,70.8,170.2,Moderate,38.15,Very Quiet
+24.2,73.07,145.8,Moderate,72.9,Loud
+37.96,72.33,509.12,Unknown,95.69,Very Loud
+24.1,75.95,100.9,Moderate,76.32,Loud
+23.81,42.61,302.98,Very Unhealthy,35.38,Very Quiet
+20.73,67.75,160.43,Moderate,54.83,Quiet
+29.44,53.03,69.46,Good,68.55,Moderate
+31.3,72.1,68.01,Good,58.22,Moderate
+21.31,66.42,137.61,Moderate,88.36,Very Loud
+35.51,68.82,483.39,Hazardous,87.03,Very Loud
+29.07,62.81,191.24,Moderate,72.83,Loud
+30.49,38.87,525.23,Unknown,56.14,Moderate
+28.82,57.25,340.81,Very Unhealthy,47.87,Quiet
+28.02,79.23,268.31,Unhealthy,37.41,Very Quiet
+31.19,76.87,340.04,Very Unhealthy,54.84,Quiet
+23.1,32.16,308.35,Very Unhealthy,58.92,Moderate
+23.64,38.24,429.39,Hazardous,77.31,Loud
+37.24,36.59,191.25,Moderate,76.07,Loud
+38.92,66.3,226.53,Unhealthy,34.91,Very Quiet
+27.47,70.89,497.05,Hazardous,57.67,Moderate
+25.41,40.68,523.23,Unknown,42.72,Quiet
+32.88,55.29,496.28,Hazardous,40.98,Quiet
+28.17,72.04,259.72,Unhealthy,87.91,Very Loud
+20.51,66.64,440.18,Hazardous,32.93,Very Quiet
+23.12,57.11,288.17,Unhealthy,59.34,Moderate
+34.32,59.52,298.77,Unhealthy,41.77,Quiet
+33.18,55.42,152.34,Moderate,91.55,Very Loud
+20.54,44.88,345.57,Very Unhealthy,68.99,Moderate
+24.44,58.25,143.07,Moderate,46.2,Quiet
+24.62,64.44,215.78,Unhealthy,65.17,Moderate
+33.44,73.67,477.52,Hazardous,81.2,Loud
+20.39,61.81,153.54,Moderate,97.07,Very Loud
+22.08,68.06,85.58,Good,45.43,Quiet
+36.0,38.0,84.5,Good,92.03,Very Loud
+23.57,53.08,520.39,Unknown,95.4,Very Loud
+33.05,30.47,303.46,Very Unhealthy,94.15,Very Loud
+24.76,42.33,254.71,Unhealthy,74.48,Loud
+21.99,66.32,455.44,Hazardous,74.09,Loud
+24.86,79.59,467.91,Hazardous,58.22,Moderate
+34.45,34.96,216.1,Unhealthy,82.67,Loud
+37.11,50.07,396.81,Very Unhealthy,67.19,Moderate
+36.6,70.0,435.56,Hazardous,77.42,Loud
+27.94,40.2,377.33,Very Unhealthy,59.99,Moderate
+33.36,57.75,125.8,Moderate,81.2,Loud
+24.1,66.65,487.94,Hazardous,87.71,Very Loud
+25.86,60.8,319.55,Very Unhealthy,40.25,Quiet
+37.93,39.4,191.24,Moderate,88.31,Very Loud
+20.26,47.77,262.61,Unhealthy,67.82,Moderate
+21.71,69.19,68.79,Good,89.13,Very Loud
+24.16,57.71,113.93,Moderate,60.19,Moderate
+20.53,30.26,432.77,Hazardous,56.53,Moderate
+23.63,68.05,50.01,Good,94.05,Very Loud
+31.66,31.77,258.28,Unhealthy,47.58,Quiet
+28.43,67.29,311.26,Very Unhealthy,89.09,Very Loud
+37.85,40.12,77.32,Good,63.88,Moderate
+36.35,77.9,536.54,Unknown,65.99,Moderate
+26.84,48.4,163.06,Moderate,51.59,Quiet
+25.19,46.35,202.1,Unhealthy,70.11,Loud
+27.59,37.44,201.97,Unhealthy,52.76,Quiet
+31.81,45.28,165.21,Moderate,32.75,Very Quiet
+25.36,73.83,50.74,Good,49.04,Quiet
+32.48,79.82,414.67,Hazardous,30.45,Very Quiet
+28.19,48.42,533.42,Unknown,98.48,Very Loud
+31.04,52.43,162.15,Moderate,97.6,Very Loud
+28.72,66.1,381.52,Very Unhealthy,57.66,Moderate
+25.89,74.31,420.95,Hazardous,80.99,Loud
+38.97,59.65,474.21,Hazardous,54.21,Quiet
+35.27,49.58,261.31,Unhealthy,76.98,Loud
+22.8,50.63,201.47,Unhealthy,86.38,Very Loud
+37.37,64.78,212.65,Unhealthy,96.27,Very Loud
+29.75,30.16,406.31,Hazardous,58.01,Moderate
+37.89,60.98,458.39,Hazardous,84.83,Loud
+36.0,47.77,140.81,Moderate,48.61,Quiet
+28.5,69.71,235.47,Unhealthy,99.32,Very Loud
+20.45,34.65,500.97,Unknown,31.8,Very Quiet
+25.37,59.41,453.35,Hazardous,72.25,Loud
+30.83,54.05,542.43,Unknown,76.17,Loud
+32.67,62.12,427.12,Hazardous,78.16,Loud
+25.16,33.24,246.6,Unhealthy,38.43,Very Quiet
+22.79,59.0,345.32,Very Unhealthy,95.7,Very Loud
+36.7,58.07,380.51,Very Unhealthy,42.68,Quiet
+39.69,58.03,89.23,Good,73.59,Loud
+30.51,60.17,322.25,Very Unhealthy,45.59,Quiet
+23.43,63.82,404.66,Hazardous,51.51,Quiet
+25.45,70.25,133.66,Moderate,68.25,Moderate
+20.37,43.49,440.32,Hazardous,59.2,Moderate
+38.29,71.25,341.89,Very Unhealthy,41.22,Quiet
+22.36,54.91,526.11,Unknown,41.97,Quiet
+31.53,33.85,71.21,Good,59.27,Moderate
+25.48,32.93,182.66,Moderate,83.01,Loud
+31.08,46.71,350.78,Very Unhealthy,92.86,Very Loud
+33.03,69.24,198.28,Moderate,35.89,Very Quiet
+36.59,65.38,407.21,Hazardous,57.52,Moderate
+24.13,69.43,429.5,Hazardous,37.02,Very Quiet
+20.22,55.86,101.26,Moderate,31.16,Very Quiet
+22.74,52.01,306.93,Very Unhealthy,76.32,Loud
+38.0,37.37,304.45,Very Unhealthy,72.17,Loud
+37.48,46.41,234.64,Unhealthy,41.41,Quiet
+31.95,51.7,516.46,Unknown,46.37,Quiet
+32.01,34.43,463.75,Hazardous,31.66,Very Quiet
+33.3,41.03,398.6,Very Unhealthy,88.45,Very Loud
+23.51,59.91,407.16,Hazardous,98.23,Very Loud
+38.29,66.78,280.86,Unhealthy,39.48,Very Quiet
+28.38,79.92,510.5,Unknown,46.2,Quiet
+27.66,76.66,397.3,Very Unhealthy,90.79,Very Loud
+30.38,62.13,414.49,Hazardous,94.85,Very Loud
+20.94,51.06,480.85,Hazardous,59.37,Moderate
+23.33,61.81,187.04,Moderate,33.54,Very Quiet
+34.76,69.28,453.54,Hazardous,32.76,Very Quiet
+21.66,35.92,147.62,Moderate,70.18,Loud
+32.06,50.5,222.67,Unhealthy,57.5,Moderate
+24.91,71.99,217.81,Unhealthy,32.01,Very Quiet
+27.79,49.19,539.26,Unknown,70.83,Loud
+25.77,58.59,478.27,Hazardous,30.79,Very Quiet
+27.11,59.39,400.58,Hazardous,85.12,Very Loud
+34.38,39.22,413.53,Hazardous,51.45,Quiet
+25.94,48.11,331.04,Very Unhealthy,32.82,Very Quiet
+31.33,46.73,523.55,Unknown,71.18,Loud
+29.52,31.31,298.13,Unhealthy,57.84,Moderate
+33.27,31.21,240.26,Unhealthy,98.17,Very Loud
+38.74,71.58,131.52,Moderate,68.09,Moderate
+34.65,43.65,443.1,Hazardous,49.27,Quiet
+24.3,55.9,417.22,Hazardous,79.66,Loud
+20.62,44.94,242.18,Unhealthy,49.0,Quiet
+25.25,77.03,62.6,Good,93.3,Very Loud
+31.9,42.96,469.5,Hazardous,56.23,Moderate
+21.03,51.48,55.71,Good,68.49,Moderate
+29.93,73.64,401.85,Hazardous,33.54,Very Quiet
+31.94,72.1,535.13,Unknown,59.83,Moderate
+26.68,39.31,268.83,Unhealthy,88.27,Very Loud
+35.42,70.13,167.49,Moderate,86.4,Very Loud
+22.13,52.91,402.44,Hazardous,45.7,Quiet
+21.5,54.15,458.56,Hazardous,45.83,Quiet
+34.56,36.67,323.22,Very Unhealthy,87.21,Very Loud
+29.91,34.03,533.52,Unknown,95.13,Very Loud
+33.77,66.4,75.83,Good,36.68,Very Quiet
+28.7,54.82,302.4,Very Unhealthy,61.5,Moderate
+24.93,51.84,409.23,Hazardous,53.62,Quiet
+36.38,66.48,481.32,Hazardous,90.95,Very Loud
+35.99,68.28,139.63,Moderate,35.85,Very Quiet
+33.89,37.95,450.0,Hazardous,44.78,Quiet
+25.44,60.51,326.35,Very Unhealthy,82.67,Loud
+31.8,36.77,248.28,Unhealthy,33.59,Very Quiet
+27.22,67.57,115.86,Moderate,64.48,Moderate
+21.83,62.85,482.65,Hazardous,60.95,Moderate
+38.35,77.83,128.64,Moderate,53.41,Quiet
+22.74,33.45,204.89,Unhealthy,57.62,Moderate
+39.0,32.85,195.02,Moderate,67.1,Moderate
+28.92,44.11,485.71,Hazardous,41.3,Quiet

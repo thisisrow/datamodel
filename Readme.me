@@ -3,3 +3,19 @@ using descriptors like MolLogP, MolWt, NumRotatableBonds, and AromaticProportion
  RandomForestRegressor model.
  prathamesh@prathamesh-HP-EliteBook-840-G5:~$ curl -X POST https://datamodel-l70k.onrender.com/predict -H "Content-Type: application/json" -d '{"MolLogP": 2.5954, "MolWt": 167.85, "NumRotatableBonds": 0, "AromaticProportion": 0.0}'
 {"logS":-2.1207516666666693}
+
+air-noise.pkl is a dictionary containing:
+
+aq_model → trained Air Quality model
+noise_model → trained Noise model
+le_aq → label encoder for air quality
+le_noise → label encoder for noise
+plus metadata (feat_aq, feat_noise, etc.)
+
+curl -X POST http://localhost:10000/airnoise -H "Content-Type: application/json" -d '{
+  "Temperature": 31.8,
+  "Humidity": 36.77,
+  "MQ135": 248.28,
+  "Noise_dB": 33.59
+}'
+{"Predicted_Air_Quality_Label":"Unhealthy","Predicted_Noise_Label":"Very Quiet"}
